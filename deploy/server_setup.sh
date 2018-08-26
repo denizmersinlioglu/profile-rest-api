@@ -14,7 +14,13 @@ locale-gen en_GB.UTF-8
 # Install Python, SQLite and pip
 echo "Installing dependencies..."
 sudo apt-get update
-sudo apt-get install -y python3-dev python3-venv sqlite python-pip supervisor nginx git
+sudo apt-get install -y python3-dev
+sudo apt-get install python3-venv
+sudo apt-get install sqlite
+sudo apt-get install python-pip
+sudo apt-get install supervisor n
+sudo apt-get install ginx
+sudo apt-get install git
 
 mkdir -p $PROJECT_BASE_PATH
 git clone $PROJECT_GIT_URL $PROJECT_BASE_PATH/profiles-rest-api
