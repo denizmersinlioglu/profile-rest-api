@@ -31,7 +31,6 @@ class UserProfile(AbstractBaseUser, PermissionsMixin):
     Represents a "user profile" inside out system. Stores all user account
     related data, such as 'email address' and 'name'.
     """
-
     email = models.EmailField(max_length=255, unique=True)
     name = models.CharField(max_length=255)
     is_active = models.BooleanField(default=True)
@@ -54,3 +53,12 @@ class UserProfile(AbstractBaseUser, PermissionsMixin):
         """Django uses this when it needs to convert the object to text."""
         return self.email
 
+class ProfileFeedItem(models.Model):
+    """Profile status update"""
+    user_profile = models.ForeignKey('UserProfile',on_delete=models.CASCADE)
+    status_text = models.CharField(max_length=255)
+    created_on = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        """Model as a String"""
+        return self.status_text

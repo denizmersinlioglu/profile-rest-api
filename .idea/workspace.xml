@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4457b6cc-5e7c-404b-a0c2-2c236ed75299" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5004" />
+          <entry key="py" value="5265" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5004" />
+          <entry key="Python" value="5265" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -67,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
+            <state relative-caret-position="978">
               <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -82,11 +80,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="255">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
-                <marker date="1535309536059" expanded="true" signature="1015:1016" ph="..." />
+                <marker date="1535310886537" expanded="true" signature="1015:1016" ph="..." />
+                <marker date="1535310886537" expanded="true" signature="1944:1949" ph="..." />
               </folding>
             </state>
           </provider>
@@ -243,14 +242,6 @@
               <item name="profiles_rest_api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
-              <item name="profiles_api" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profiles_rest_api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profiles_rest_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
               <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -292,7 +283,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="989" y="0" width="931" height="1200" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25421822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -409,7 +399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
+        <state relative-caret-position="978">
           <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -422,11 +412,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
-            <marker date="1535309536059" expanded="true" signature="1015:1016" ph="..." />
+            <marker date="1535310886537" expanded="true" signature="1015:1016" ph="..." />
+            <marker date="1535310886537" expanded="true" signature="1944:1949" ph="..." />
           </folding>
         </state>
       </provider>
