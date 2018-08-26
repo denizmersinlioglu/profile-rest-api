@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4457b6cc-5e7c-404b-a0c2-2c236ed75299" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5265" />
+          <entry key="py" value="6028" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5265" />
+          <entry key="Python" value="6028" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -53,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -62,26 +65,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="978">
-              <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+            <state relative-caret-position="918">
+              <caret line="119" column="68" selection-start-line="119" selection-start-column="68" selection-end-line="119" selection-end-column="68" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1535298768464" expanded="true" signature="1894:1899" ph="..." />
-                <marker date="1535298768464" expanded="true" signature="3376:3695" ph="..." />
-                <marker date="1535298768464" expanded="true" signature="3773:3778" ph="..." />
+                <marker date="1535312999340" expanded="true" signature="2014:2019" ph="..." />
+                <marker date="1535312999340" expanded="true" signature="3496:3815" ph="..." />
+                <marker date="1535312999340" expanded="true" signature="3893:3898" ph="..." />
+                <marker date="1535312999340" expanded="true" signature="4207:4666" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="300">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
                 <marker date="1535310886537" expanded="true" signature="1015:1016" ph="..." />
@@ -106,12 +110,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="450">
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
-                <marker date="1535295316132" expanded="true" signature="108:113" ph="..." />
-                <marker date="1535295316132" expanded="true" signature="275:280" ph="..." />
+                <marker date="1535312148815" expanded="true" signature="108:113" ph="..." />
+                <marker date="1535312148815" expanded="true" signature="275:280" ph="..." />
+                <marker date="1535312148815" expanded="true" signature="860:865" ph="..." />
               </folding>
             </state>
           </provider>
@@ -120,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="150">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -132,10 +137,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding>
-                <marker date="1535296885879" expanded="true" signature="91:96" ph="..." />
+                <marker date="1535312363173" expanded="true" signature="91:96" ph="..." />
+                <marker date="1535312363173" expanded="true" signature="425:430" ph="..." />
               </folding>
             </state>
           </provider>
@@ -166,13 +172,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py" />
-        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/admin.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/urls.py" />
+        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/models.py" />
+        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/admin.py" />
+        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" />
-        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" />
-        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/models.py" />
       </list>
     </option>
   </component>
@@ -283,6 +289,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="989" y="0" width="931" height="1200" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25421822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,16 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/conf/urls/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -358,28 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <marker date="1535295316132" expanded="true" signature="108:113" ph="..." />
-            <marker date="1535295316132" expanded="true" signature="275:280" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <marker date="1535296885879" expanded="true" signature="91:96" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/rest_framework/generics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
@@ -387,37 +362,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py">
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="978">
-          <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+        <state relative-caret-position="150">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1535298768464" expanded="true" signature="1894:1899" ph="..." />
-            <marker date="1535298768464" expanded="true" signature="3376:3695" ph="..." />
-            <marker date="1535298768464" expanded="true" signature="3773:3778" ph="..." />
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1535312148815" expanded="true" signature="108:113" ph="..." />
+            <marker date="1535312148815" expanded="true" signature="275:280" ph="..." />
+            <marker date="1535312148815" expanded="true" signature="860:865" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="300">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
             <marker date="1535310886537" expanded="true" signature="1015:1016" ph="..." />
             <marker date="1535310886537" expanded="true" signature="1944:1949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <marker date="1535312363173" expanded="true" signature="91:96" ph="..." />
+            <marker date="1535312363173" expanded="true" signature="425:430" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="119" column="68" selection-start-line="119" selection-start-column="68" selection-end-line="119" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1535312999340" expanded="true" signature="2014:2019" ph="..." />
+            <marker date="1535312999340" expanded="true" signature="3496:3815" ph="..." />
+            <marker date="1535312999340" expanded="true" signature="3893:3898" ph="..." />
+            <marker date="1535312999340" expanded="true" signature="4207:4666" ph="..." />
           </folding>
         </state>
       </provider>
